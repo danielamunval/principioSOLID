@@ -1,6 +1,6 @@
 # principioSOLID
 
-# Principios SOLID – Grupo [Nombre del Grupo]
+# Equipo 3 AsmaGeneration
  
 Este repositorio contiene una explicación individual de cada uno de los cinco principios SOLID en la Programación Orientada a Objetos. Cada principio fue abordado por un integrante del grupo:
  
