@@ -11,3 +11,8 @@ Este repositorio contiene una explicación individual de cada uno de los cinco p
 - **D – Dependency Inversion Principle** → Daniela
  
 Estos principios son fundamentales para el desarrollo de código limpio, mantenible y escalable.
+
+S-Single Responsability Principle
+Principio de Responsabilidad Única
+
+Este principio dice que una clase debe tener una única razón para cambiar, es decir, debe tener una única responsabilidad o propósito.
