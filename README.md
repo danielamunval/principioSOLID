@@ -21,3 +21,7 @@ O - Open/Closed Principle (OCP)
 Principio de Abierto/Cerrado
 Puedes extender el comportamiento de una clase sin modificar su código original (por ejemplo, usando herencia o interfaces).
 
+L – Liskov Substitution Principle o Principio de Sustitución de Liskov.
+“Subclases que encajan”
+
+Si tienes una clase padre A y una hija B (subclase), puedes usar B donde sea y de todas maneras dará A, sin que falle.
