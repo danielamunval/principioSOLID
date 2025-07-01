@@ -16,3 +16,8 @@ S-Single Responsability Principle
 Principio de Responsabilidad Única
 
 Este principio dice que una clase debe tener una única razón para cambiar, es decir, debe tener una única responsabilidad o propósito.
+
+O - Open/Closed Principle (OCP)
+Principio de Abierto/Cerrado
+Puedes extender el comportamiento de una clase sin modificar su código original (por ejemplo, usando herencia o interfaces).
+
